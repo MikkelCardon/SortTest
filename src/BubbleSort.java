@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class BubbleSort {
     public static void main(String[] args) {
         Random rand = new Random();
         int[] numbers = new int[10];
